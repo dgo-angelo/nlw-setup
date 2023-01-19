@@ -19,7 +19,7 @@ model Habit {
   id         String          @id @default(uuid())
   title      String
   created_at DateTime
-  dayHabit   DayHabit[]
+  dayHabits  DayHabit[]
   weekDays   HabitWeekDays[]
 
   @@map("habits")
