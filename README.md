@@ -18,18 +18,24 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Sobre o Projeto](#sobre-o-projeto-star)
-:small_blue_diamond: [Objetivo](#objetivo-dart)
-:small_blue_diamond: [Pacotes Utilizados](#pacotes-utilizados-gear)
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos-bookmark_tabs)
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Sobre o Projeto](#star-sobre-o-projeto)
 
-## Sobre o Projeto :star:
+:small_blue_diamond: [Objetivo](#dart-objetivo)
+
+:small_blue_diamond: [Imagens](#sunrise_over_mountains-imagens)
+
+:small_blue_diamond: [Pacotes Utilizados](#gear-pacotes-utilizados)
+
+:small_blue_diamond: [Pré-requisitos](#warning-pré-requisitos)
+
+:small_blue_diamond: [Como rodar a aplicação](#arrow_forward-como-rodar-a-aplicação)
+
+## :star: Sobre o Projeto 
 
 Projeto desenvolvido durante o NLW Setup, um evento online grauito, organizado pela [Rocket Seat](https://lp.rocketseat.com.br/nlw).
 
 
-## Objetivo :dart:
+## :dart: Objetivo
 
 :trophy: O Habits é um aplicativo desenvolvido para controle dos hábitos do dia a dia, visando melhoria na qualidade de vida, disponível tanto para Web como para Mobile.
 
@@ -51,7 +57,7 @@ O back-end da aplicação foi desenvolvido em nodejs, utilizando SQLite como ban
 ![](/images/mobile/summary_list.png)
 
 
-## :gear:  Pacotes Utilizados 
+## :gear: Pacotes Utilizados 
 
 ### :station: Server
 - :white_check_mark:[Prisma](https://www.prisma.io/)
@@ -85,7 +91,7 @@ O back-end da aplicação foi desenvolvido em nodejs, utilizando SQLite como ban
   - https://reactnavigation.org/docs/native-stack-navigator/
 - :white_check_mark:[Clsx](https://github.com/lukeed/clsx#readme)
 
-## Como rodar a aplicação :arrow_forward:
+## :arrow_forward: Como rodar a aplicação 
 
 #### :warning: Pré-Requisitos
 
